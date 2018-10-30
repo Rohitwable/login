@@ -1,0 +1,44 @@
+body{
+	background-image: black;
+	height:750px;
+
+}
+
+.fb-header{
+	width:80%%;
+	height:330px;
+	position:absolute;
+	background-color: white;
+	top:0;
+	left:0;
+	color:Black;
+	z-index:7;
+	font-family:verdana;
+
+}
+
+#form1{
+	left:750px;
+	height:80px;
+	width:220px;
+	top:20px;
+	font-family:verdana;
+	font-size:12px;
+	margin:5px;
+}
+#form2{
+	left:940px;
+	height:80px;
+	width:250px;
+	top:20px;
+	font-family:verdana;
+	font-size:12px;
+	margin:5px;
+}
+
+#form1 input{
+	padding:5px;
+}
+#form2 input{
+	padding:5px;
+}
